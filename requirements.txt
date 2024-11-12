@@ -1,6 +1,4 @@
 streamlit
-zipfile36    # Only if using Python <3.7, as zipfile is part of the standard library in newer versions
 python-dotenv
-shutil       # Typically part of Python standard library; no need to include if using Python >=3.3
 openai
 reportlab
